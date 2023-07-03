@@ -84,7 +84,7 @@ export default function SideImage() {
               },
             }}
             src={SIDE_IMAGE_URL}
-            alt="Treinamento com a roberta arcoverde no alura cases, falando sobre o stackoverflow"
+            alt="Treinamento com a roberta arcoverde no viana cases, falando sobre o stackoverflow"
           />
         </Box>
       </Box>

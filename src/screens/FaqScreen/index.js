@@ -59,7 +59,7 @@ export default function FAQScreen({ faq }) {
             >
               Não consegue encontrar a resposta que procura? entre em contato com nosso{' '}
               <LinkRedirect
-                href="mailto:contato@alura.com.br"
+                href="mailto:viannasou03@gmail.com"
                 styleSheet={{
                   color: theme.colors.primary[400],
                   hover: {

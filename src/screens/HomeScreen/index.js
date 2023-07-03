@@ -11,8 +11,7 @@ import SideImage from "../SideImage";
 import Head from "next/head";
 
 export default function HomeScreen() {
-  const LOGO_ALURA_URL = '/images/logo.jpeg';
-  const SIDE_IMAGE_URL = '/images/ban-bancoimgs.jpg'
+  const LOGO_VIANA_URL = '/images/logo.jpeg';
     return (
       <Box>
         <Head>
@@ -73,8 +72,8 @@ export default function HomeScreen() {
                       width: "auto",
                       height: theme.space.x11,
                     }}
-                    src={LOGO_ALURA_URL}
-                    alt="Logo Alura"
+                    src={LOGO_VIANA_URL}
+                    alt="Logo Viana"
                   />
                 </Box>
                 <Box
@@ -152,7 +151,7 @@ export default function HomeScreen() {
                         color: theme.colors.neutral["900"],
                       }}
                     >
-                      Alura Cases
+                      VIANA Cases
                     </Text>
                     <Text
                       as="p"
