@@ -34,7 +34,7 @@ export default function Footer() {
             color: theme.colors.neutral[400],
           }}
         >
-          © {new Date().getFullYear()} DevSoutinho. Todos os direitos reservados.
+          © {new Date().getFullYear()} Fagner Viana. Todos os direitos reservados.
         </Text>
       </Box>
     </Box>
